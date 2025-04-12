@@ -1,3 +1,12 @@
+![GET](https://github.com/user-attachments/assets/56a69042-9c1a-4e82-a06e-520ed07e8fa8)
+
+![PATCH](https://github.com/user-attachments/assets/9d781786-6fd2-4cb8-9ee7-5850153d43ee)
+![POST](https://github.com/user-attachments/assets/5a4ac505-b413-4f3f-a68c-d7766295ae7e)
+
+![GET by ID](https://github.com/user-attachments/assets/98c80494-e164-4d5d-b695-5354d53b95d8)
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
